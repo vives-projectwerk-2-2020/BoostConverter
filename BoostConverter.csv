@@ -1,0 +1,8 @@
+Part;Value;Device;Package;Description;;Farnell;;DIGIKEY;;
+C1;4,7µ;C-EUC0603;C0603;CAPACITOR, European symbol;;2112745;;;;
+C2;10µ;C-EUC0603;C0603;CAPACITOR, European symbol;;2470486;;;;
+L1;LPS3015-104MRB 4,7µH;LPS3015-104MRB;LPS3015;COILCRAFT - LPS3015-104MRB - INDUCTOR, SHLD, 100UH, 20%, 0.19A, SMD;;2408022;;;;
+R1;976k;R-EU_R0603;R0603;RESISTOR, European symbol;;2694973;;;;
+R2;309k;R-EU_R0603;R0603;RESISTOR, European symbol;;2138544;;;;
+SV1;;MA04-1;MA04-1;PIN HEADER;;3418303;;;;
+U$1;MCP1640CT-I/MC;MCP1640CT-I/MC;DFN200X300X100-9N;Synchronous Boost Regulator;;;;MCP1640CT-I/MCCT-ND;;this component wasn't available on Farnell, you can also watch to order all components on digikey
